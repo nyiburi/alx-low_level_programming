@@ -1,8 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
+
 /**
- * main - This program print text using puts function.
+ * main - Entry point
  *
- * Retun: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

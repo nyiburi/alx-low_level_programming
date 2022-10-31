@@ -1,4 +1,4 @@
-#include "alx.h"
+#include "main.h"
 
 /**
  * main - Prints "ALX-Africa" followed by a new line.

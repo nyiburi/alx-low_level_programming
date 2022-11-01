@@ -1,4 +1,3 @@
-#include <main.h>
 #include <alx.h>
 /**
  * main - Prints "ALX-Africa" followed by a new line.
